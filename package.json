@@ -1,0 +1,22 @@
+{
+  "name": "fertilizer_rate_and_yield",
+  "version": "1.0.2",
+  "description": "Computing fertilizer amount on field and potential yield of spring wheat",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fertilizer",
+    "nutrient",
+    "yield",
+    "wheat",
+    "nitrogen",
+    "phosphorus",
+    "potassium",
+    "agronomy",
+    "soil"
+  ],
+  "author": "Sozinov Andrey",
+  "license": "ISC"
+}
